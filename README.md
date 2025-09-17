@@ -148,3 +148,9 @@ Greenhouse_Vegetation_Playground/
 
 
 ```
+<img width="1024" height="1024" alt="Generated Image September 17, 2025 - 7_20PM" src="https://github.com/user-attachments/assets/152d79c3-0d6d-476d-ad90-40fa8f0f0512" />
+
+
+<img width="1024" height="1024" alt="Generated Image September 17, 2025 - 7_20PM (1)" src="https://github.com/user-attachments/assets/7aff32d1-38f0-4762-884d-7d3d3a33d0e3" />
+
+
