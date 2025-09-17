@@ -9,7 +9,15 @@ Greenhouse_Vegetation_Playground/
 ├── README.md                          # Overview, goals, quickstart
 ├── requirements.txt                   # Python deps (pandas, scikit-learn, streamlit, fastapi, etc.)
 ├── LICENSE                            # Open source license
-│
+│=== infrastructure/                   # NEW: Costing & resource planning
+│   ├── layout_plan.md                # Required layout per sq.ft (2,000 / 5,000 / 10,000 sqft)
+│   ├── civil_work.md                 # Civil construction cost (foundation, flooring, drainage)
+│   ├── electrical_setup.md           # Wiring, lighting, fans, control panels
+│   ├── decoration_material.md        # Nets, shades, greenhouse cover, partitioning
+│   ├── labor_resources.md            # Labour cost estimation (skilled/unskilled, daily/contract)
+│   ├── resource_inventory.md         # Pumps, pipes, irrigation, water tanks, fertilizers
+│   ├── miscellaneous_costs.md        # Permits, transport, maintenance, contingency
+│   └── costing_summary.xlsx          # Consolidated cost breakdown (Excel/CSV)
 ├── docs/                              # Knowledge base & guides
 │   ├── 01_problem_statement.md        # Challenges in greenhouse vegetation
 │   ├── 02_greenhouse_setup.md         # Setup, design, equipment, layout
