@@ -1,5 +1,8 @@
 # Greenhouse_Vegetation_Playground
 
+<img width="1024" height="1024" alt="Generated Image September 17, 2025 - 7_14PM" src="https://github.com/user-attachments/assets/b8bdb536-2e1c-4842-970e-a79b872e43e8" />
+
+
 ```PLAIN TEXT
 Greenhouse_Vegetation_Playground/
 │
